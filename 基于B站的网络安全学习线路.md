@@ -35,7 +35,7 @@ Python编程从入门到实践（第2版）：https://www.bilibili.com/video/BV1
 
 ##### Java编程：
 
-韩顺平 零基础30天学会Java https://www.bilibili.com/video/BV1fh411y7R8
+韩顺平 零基础30天学会Java https://www.bilibili.com/video/BV1fh411y7R8
 
 ### 网络安全基础课程：
 
@@ -55,9 +55,11 @@ Python编程从入门到实践（第2版）：https://www.bilibili.com/video/BV1
 
 Web安全入门保姆级教程-1500分钟超详细讲解：https://www.bilibili.com/video/BV1Ty4y1Y7gs
 
+小迪Web安全：https://www.bilibili.com/video/BV1JZ4y1c7ro
+
 ### 渗透测试方向：
 
-渗透测试工程师视频（从P22看起）：https://www.bilibili.com/video/BV1Aa411n7Np
+渗透测试工程师视频（从P43看起）：https://www.bilibili.com/video/BV1wT411j7wg
 
 ### 二进制安全&&逆向分析方向：
 
@@ -70,6 +72,12 @@ Web安全入门保姆级教程-1500分钟超详细讲解：https://www.bilibili.
 你想有多PWN：https://www.bilibili.com/video/BV1mr4y1Y7fW
 
 二进制安全系列教程：https://www.bilibili.com/video/BV1N441147K2
+
+XMCVE 2020 CTF Pwn入门课程：https://www.bilibili.com/video/BV1854y1y7Ro
+
+NTUSTISC - CTF Pwn从入门到进阶：https://www.bilibili.com/video/BV1ai4y1u7mS
+
+2019 北航 CTF Pwn入门培训课程：https://www.bilibili.com/video/BV1JV411m7PC
 
 ### 新兴技术安全方向：
 
@@ -85,6 +93,22 @@ IoT安全测试入门：https://www.bilibili.com/video/BV1J44y1E74H
 
 CISP-PTE认证指南：https://www.bilibili.com/video/BV1Yb411k7do
 
+全B站最详细的对黑客认证OSCP的全解析！：https://www.bilibili.com/video/BV1vQ4y1q7r1
+
+OSCP手把手：https://space.bilibili.com/396895057/channel/seriesdetail?sid=1199983
+
+OSCP 渗透测试认证专家教程 | 双语字幕 PEN200：https://www.bilibili.com/video/BV1bP4y1M7nm
+
+HackTheBox | OSCP考试认证系列课程 | 英文字幕：
+
+https://www.bilibili.com/video/BV1LV4y1s7Cw
+
+【OSCP考试】HackTheBox 300小时打靶教程：https://www.bilibili.com/video/BV1194y1S7sm
+
+乾颐堂现任明教教主 CCNA Security 2020年6月：https://www.bilibili.com/video/BV1m54y1B735
+
+
+
 ### CTF比赛：
 
 CTF是什么？我该怎么学习CTF？https://www.bilibili.com/video/BV1z64y187YG
@@ -99,6 +123,8 @@ WEB选手如何在CTF中成长：https://www.bilibili.com/video/BV1wK4y1V7sZ
 
 CTF-Misc：https://www.bilibili.com/video/BV1pB4y1X7rA
 
-如何打 PWN：https://www.bilibili.com/video/BV1CZ4y1C7if
+ 如何打 PWN：https://www.bilibili.com/video/BV1CZ4y1C7if
 
-欢迎大家补充！ 作者：合天网安实验室 https://www.bilibili.com/read/cv17159157 出处：bilibili
+欢迎大家补充！
+
+ 作者：合天网安实验室 https://www.bilibili.com/read/cv17159157 出处：bilibili
