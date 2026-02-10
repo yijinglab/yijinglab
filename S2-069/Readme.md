@@ -1,4 +1,4 @@
-# CVE-2025-68493｜Apache Struts 2 (S2-069) 外部实体（XXE）注入漏洞详细文档
+# CVE-2025-68493｜Apache Struts 2 (S2-069) 外部实体（XXE）注入漏洞复现
 
 ## 1. 漏洞概述
 **漏洞编号**：CVE-2025-68493  
@@ -166,6 +166,4 @@ dbf.setExpandEntityReferences(false);
 ### 6.3 临时缓解措施 (WAF)
 在 Web 应用防火墙（WAF）上配置规则，拦截包含 `<!DOCTYPE`, `<!ENTITY`, `SYSTEM`, `PUBLIC` 等关键字的 XML 请求。
 
----
-**文档攥写**：Antigravity Agent  
 **日期**：2026-02-10
